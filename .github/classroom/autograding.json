@@ -12,7 +12,7 @@
     },
     {
       "name": "Teste Q2",
-      "setup": "sudo -H pip3 install pytest -k \"q2\"",
+      "setup": "sudo -H pip3 install pytest ",
       "run": "pytest -k \"q2\"",
       "input": "",
       "output": "",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Teste Q3",
-      "setup": "sudo -H pip3 install pytest -k \"q3\"",
+      "setup": "sudo -H pip3 install pytest",
       "run": "pytest -k \"q3\"",
       "input": "",
       "output": "",
